@@ -1,0 +1,46 @@
+{
+  "name": "VideoCompressBot",
+  "description": "Telegram's Powerful and simple Video Compress Bot",
+  "logo": "https://telegra.ph/file/889e66c39d5078dac0795.jpg",
+  "keywords": [
+    "telegram",
+    "best",
+    "video",
+    "compress",
+    "bot"
+  ],
+  "success_url": "https://telegram.dog/UC_bot_channel",
+  "website": "https://telegram.dog/UC_bot_channel",
+  "repository": "https://github.com/idkgj1233/SC-Video-Compressor-Bot",
+  "env": {
+    "ENV": {
+      "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
+      "value": "ANYTHING"
+    },
+    "TG_BOT_TOKEN": {
+      "description": "8036958780:AAGu1Xdfe9n6RdO0yWl4KjdcO7HBAcE4NeM",
+      "value": ""
+    },
+    "APP_ID": {
+      "description": "36172902",
+      "value": "36172902"
+    },
+    "API_HASH": {
+      "description": "c3a7e1d518f38928a21865e75458b62a",
+      "value": "c3a7e1d518f38928a21865e75458b62a"
+    },
+    "AUTH_USERS": {
+      "description": "allow only pre-defined users to use this bot",
+      "value": "6992010963 7831735222"
+    },
+    "FINISHED_PROGRESS_STR": {
+      "description": "should be a single character.",
+      "required": false
+    },
+    "UN_FINISHED_PROGRESS_STR": {
+      "description": "should be a single character.",
+      "required": false
+    }
+  },
+  "stack": "container"
+}

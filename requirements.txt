@@ -1,0 +1,6 @@
+aiohttp
+Pillow
+psutil
+pyrogram
+https://github.com/Tinche/aiofiles/archive/master.zip
+tgcrypto
